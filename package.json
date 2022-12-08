@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongoose": "^5.4.13",
     "socket.io": "^2.2.0",
     "lodash": ">=4.17.13"
